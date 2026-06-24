@@ -138,9 +138,9 @@ var lyr_CategorySTEM_9 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_CategorySTEM_9, 
                 style: style_CategorySTEM_9,
-                popuplayertitle: 'Category - STEM',
+                popuplayertitle: 'Category: STEM',
                 interactive: true,
-                title: '<img src="styles/legend/CategorySTEM_9.png" /> Category - STEM'
+                title: '<img src="styles/legend/CategorySTEM_9.png" /> Category: STEM'
             });
 
 lyr_ESRISatellite_0.setVisible(true);lyr_DarkMatterretina_1.setVisible(true);lyr_CategoryArts_2.setVisible(true);lyr_CategoryCounselling_3.setVisible(true);lyr_CategoryCrisis_4.setVisible(true);lyr_CategoryFlex_5.setVisible(true);lyr_CategoryGames_6.setVisible(true);lyr_CategoryGroup_7.setVisible(true);lyr_CategoryLibrary_8.setVisible(true);lyr_CategorySTEM_9.setVisible(true);
