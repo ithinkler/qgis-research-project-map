@@ -23,6 +23,7 @@ html, body {
 
 .ol-popup {
     display: none;
+	min-width: 300px;
     position: absolute;
     background-color: white;
     padding: 15px;
